@@ -7,6 +7,7 @@ import androidx.compose.runtime.collectAsState
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import com.example.androiddevchallenge.ui.components.TimerControl
 import com.example.androiddevchallenge.ui.timer.CountDownState
 import com.example.androiddevchallenge.ui.timer.CountdownTimer
 

@@ -1,6 +1,5 @@
-package eur.thefinal.countdown.ui.components
+package com.example.androiddevchallenge.ui.components
 
-import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.shape.RoundedCornerShape
