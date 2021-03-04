@@ -16,7 +16,7 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
-    signingConfigs {
+    signingConfigs {CountdownTimer
         // We use a bundled debug keystore, to allow debug builds from CI to be upgradable
         debug {
             storeFile rootProject.file('debug.keystore')
